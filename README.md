@@ -54,7 +54,7 @@ Link to your sub-projects here. Clone the [sub-project repo](https://github.com/
 
 Link to your Trello boards here:
 
-* [Overview[(https://trello.com/b/e6vIXYUQ/overview)
+* [Overview](https://trello.com/b/e6vIXYUQ/overview)
 * Discussions
 * User Stories
 * Investigations
